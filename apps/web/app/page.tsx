@@ -1,10 +1,3 @@
-import { Button, Header } from "ui";
-
-export default function Page() {
-  return (
-    <>
-      <Header text="Web" />
-      <Button />
-    </>
-  );
+export default function IndexPage() {
+  return <div>Index Page</div>;
 }
