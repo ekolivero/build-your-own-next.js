@@ -1,6 +1,7 @@
-# Turborepo starter
+# Build your own next.js
 
-This is an official starter Turborepo.
+Following this repo you will recreate Next.js, a popular ReactJs framework, with your hand.
+During your journey you will find usefull resources that could help you understand how nextjs actually work and you will have the opportunity to take you own decision.
 
 ## Using this example
 
